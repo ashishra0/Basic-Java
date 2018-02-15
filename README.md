@@ -46,8 +46,8 @@ Fire up your Command Line as shown below.
 
 ```shell
 $ cd # path to repo
-$ javac SwitchCase.java
-$ java SwitchCase
+$ javac fileName.java
+$ java fileName
 ```
 
 ---
