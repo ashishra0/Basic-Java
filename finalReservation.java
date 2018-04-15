@@ -19,7 +19,7 @@
 */
 
 
-import java.util.*; //imports all java packages.
+import java.util.*; //imports all java utility packages.
 
 
 class preReservation {
